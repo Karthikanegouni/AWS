@@ -1,0 +1,35 @@
+body{
+	background-color: #2FBEA6 ;
+	font-family: monospace;
+}
+
+h1{
+	font-size: 50px	;
+	color: black;
+	font-family: monospace;
+}
+label{
+	color: white;
+	font-size:25px;
+	font-weight: bold;
+}
+
+input{
+	font-size: 25px;
+}
+
+button{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+button:hover{
+	transition:1;
+	background-color:limegreen;
+}
